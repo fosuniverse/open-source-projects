@@ -1,0 +1,18 @@
+[
+  {
+        "name": "Laravel Identify",
+        "github_url": "https://github.com/unicodeveloper/laravel-identify",
+        "description": "Laravel 5 Package to Detect Users Browsers, Devices, Languages and Operating Systems.",
+        "author": "unicodeveloper",
+        "author_country": "Nigeria",
+        "twitter": "https://twitter.com/unicodeveloper"
+    },
+    {
+        "name": "made-in-nigeria",
+        "github_url": "https://github.com/acekyd/made-in-nigeria",
+        "description": "It is rumored that Nigerians only know how to consume tools and not create them. Here is a curation of awesome tools built by Nigerians that can be used by anybody and from anywhere in the world.",
+        "author": "acekyd",
+        "author_country": "Ghana",
+        "twitter": "https://twitter.com/thesegunadebayo"
+    }
+]
