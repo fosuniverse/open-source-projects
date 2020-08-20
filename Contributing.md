@@ -1,6 +1,6 @@
 # Contributing
 
-## Making a pull request
+## Add a project by making a pull request
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 To contribute to this project directly send in a pull request. Here are some guidelines for this:
@@ -44,7 +44,7 @@ To contribute to this project directly send in a pull request. Here are some gui
 
 We use GitHub issues to track public bugs related to byafricans.org . Report a bug by opening a new issue; it's that easy!
 
-## Countries
+## List of African countries
 
 Below is a list of African countries. Do well to make reference to the list to add up to you JSON entry.
 
