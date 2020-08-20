@@ -1,2 +1,2 @@
-# made-in-africa-projects-list
-A list of open sourced projects made in africa
+# Open source - by Africans
+A list of open sourced projects by Africans
