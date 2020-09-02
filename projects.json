@@ -1,3 +1,34 @@
 [
-
+  {
+    "name": "FastML",
+    "github_url": "https://github.com/Team-fastML/fastML",
+    "description": "A Python package built on sklearn for running a series of classification Algorithms in a faster and easier way.",
+    "author": "Jerry Buaba",
+    "author_country": "Ghana",
+    "twitter": "https://twitter.com/buabaj_"
+  },
+  {
+    "name": "xplore",
+    "github_url": "https://github.com/buabaj/xplore",
+    "description": "A python package built for data scientist/analysts, AI/ML engineers for exploring features of a dataset in minimal number of lines of code for quick analysis before data wrangling and feature extraction.",
+    "author": "Jerry Buaba",
+    "author_country": "Ghana",
+    "twitter": "https://twitter.com/buabaj_"
+  },
+   {
+    "name": "Covid-19 Status Updater",
+    "github_url": "https://github.com/buabaj/corona-status-updater",
+    "description": "A python program to show a windows toast notification once every hour giving the user an update of the COVID19 status in any country of your choice as long as there's an internet connection.",
+    "author": "Jerry Buaba",
+    "author_country": "Ghana",
+    "twitter": "https://twitter.com/buabaj_"
+  },
+  {
+    "name": "FastML",
+    "github_url": "https://github.com/Team-fastML/fastML",
+    "description": "A Python package built on sklearn for running a series of classification Algorithms in a faster and easier way.",
+    "author": "Jerry Buaba",
+    "author_country": "Ghana",
+    "twitter": "https://twitter.com/buabaj_"
+  }  
 ]
