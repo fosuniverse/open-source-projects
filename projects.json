@@ -22,13 +22,5 @@
     "author": "Jerry Buaba",
     "author_country": "Ghana",
     "twitter": "https://twitter.com/buabaj_"
-  },
-  {
-    "name": "FastML",
-    "github_url": "https://github.com/Team-fastML/fastML",
-    "description": "A Python package built on sklearn for running a series of classification Algorithms in a faster and easier way.",
-    "author": "Jerry Buaba",
-    "author_country": "Ghana",
-    "twitter": "https://twitter.com/buabaj_"
-  }  
+  }
 ]
