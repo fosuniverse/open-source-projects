@@ -22,5 +22,13 @@
     "author": "Jerry Buaba",
     "author_country": "Ghana",
     "twitter": "https://twitter.com/buabaj_"
+  },
+  {
+    "name": "PyCut",
+    "github_url": "https://github.com/FOSSRIT/PyCut",
+    "description": "PyCut is a pizza-making puzzle game made for the IGME-582 final project at the Rochester Institute of Technology. This game teaches basic units of measure to children inspired by the Pizza Pass minigame of Logical Journey of the Zoombinis (1996)",
+    "author": "Active 2017 - Contributors: Wilfried Hounyo, Justin W. Flory, Stephen Garabedian, Alex Fuerst, Patrick Gormley, Trevor Creed",
+    "author_country": "Benin",
+    "twitter": ""
   }
 ]
