@@ -154,6 +154,7 @@ git push origin master
         - URL to your Github project repository
         - Project description
         - Github Username
+        - Github Usernames of other contributors
         - Author's country of origin (Must be African)
         - Twitter handle
 
@@ -164,9 +165,10 @@ git push origin master
             "name": "made-in-africa",
             "github_url": "https://github.com/by-africans/open-source-projects",
             "description": "A list of projects by Africans",
-            "github_username": "by-africans",
+            "author_github": "by-africans",
+            "other_contributors": ["by-africans", "fosuniverse"],
             "author_country": "Ghana",
-            "twitter_handle": "by-africans"
+            "author_twitter": "by_Africans"
         }
         ```
 
