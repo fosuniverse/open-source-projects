@@ -23,9 +23,9 @@ To contribute to this project directly send in a pull request. Here are some gui
         - Project name
         - URL to your Github project repository
         - Project description
-        - Author/owner of the project
+        - Github Username
         - Author's country of origin (Must be African)
-        - Author's Twitter account
+        - Twitter handle
 
     - Example of a `JSON` entry:
 
@@ -34,9 +34,9 @@ To contribute to this project directly send in a pull request. Here are some gui
             "name": "made-in-africa",
             "github_url": "https://github.com/by-africans/open-source-projects",
             "description": "A list of projects by Africans",
-            "author": "by-africans",
+            "github_username": "by-africans",
             "author_country": "Ghana",
-            "twitter": "https://twitter.com/by_africans"
+            "twitter_handle": "by-africans"
         }
         ```
 
