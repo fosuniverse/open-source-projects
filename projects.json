@@ -3,32 +3,36 @@
     "name": "FastML",
     "github_url": "https://github.com/Team-fastML/fastML",
     "description": "A Python package built on sklearn for running a series of classification Algorithms in a faster and easier way.",
-    "author": "Jerry Buaba",
+    "author_github": "buabaj",
+    "other_contributors": "",
     "author_country": "Ghana",
-    "twitter": "https://twitter.com/buabaj_"
+    "author_twitter": "buabaj_"
   },
   {
     "name": "xplore",
     "github_url": "https://github.com/buabaj/xplore",
     "description": "A python package built for data scientist/analysts, AI/ML engineers for exploring features of a dataset in minimal number of lines of code for quick analysis before data wrangling and feature extraction.",
-    "author": "Jerry Buaba",
+    "author_github": "buabaj",
+    "other_contributors": "",
     "author_country": "Ghana",
-    "twitter": "https://twitter.com/buabaj_"
+    "author_twitter": "buabaj_"
   },
    {
     "name": "Covid-19 Status Updater",
     "github_url": "https://github.com/buabaj/corona-status-updater",
     "description": "A python program to show a windows toast notification once every hour giving the user an update of the COVID19 status in any country of your choice as long as there's an internet connection.",
-    "author": "Jerry Buaba",
+    "author_github": "buabaj",
+    "other_contributors": "",
     "author_country": "Ghana",
-    "twitter": "https://twitter.com/buabaj_"
+    "author_twitter": "buabaj_"
   },
   {
     "name": "PyCut",
     "github_url": "https://github.com/FOSSRIT/PyCut",
     "description": "PyCut is a pizza-making puzzle game made for the IGME-582 final project at the Rochester Institute of Technology. This game teaches basic units of measure to children inspired by the Pizza Pass minigame of Logical Journey of the Zoombinis (1996)",
-    "author": "Active 2017 - Contributors: Wilfried Hounyo, Justin W. Flory, Stephen Garabedian, Alex Fuerst, Patrick Gormley, Trevor Creed",
+    "github_username": "FOSSRIT",
+    "other_contributors": "Active 2017 - Contributors: Wilfried Hounyo, Justin W. Flory, Stephen Garabedian, Alex Fuerst, Patrick Gormley, Trevor Creed",
     "author_country": "Benin",
-    "twitter": ""
+    "author_twitter": ""
   }
 ]
