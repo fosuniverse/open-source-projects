@@ -37,9 +37,9 @@
   },
   {
     "name": "Laravel Json Response",
-		"github_url": "https://github.com/faridibin/laravel-json-response",
-		"description": "An easy way to implement API formatted json responses for the Laravel framework.",
-		"author_github": "faridibin",
+    "github_url": "https://github.com/faridibin/laravel-json-response",
+    "description": "An easy way to implement API formatted json responses for the Laravel framework.",
+    "author_github": "faridibin",
     "other_contributors": "",
     "author_country": "Ghana",
     "author_twitter": "fareedibin"
